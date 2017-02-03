@@ -1,32 +1,9 @@
 ---
 layout: page
-title: Phil's homepage
+title: Welcome
 permalink: /
 ---
 
-# Welcome to my site.
+Welcome to my site. Currently running a semi-custom dual-blog set up, based on the Jekyll and Github pages.
 
-This isn't going as smoothly as all those tutorials make it look...
-
-<!--
-
----
-layout: default
----
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
-
--->
+This will be your pretty landing page soon, including recent posts, current projects and who knows what else.
