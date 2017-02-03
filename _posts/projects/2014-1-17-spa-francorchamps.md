@@ -13,7 +13,7 @@ As part of a course on simulation, we were given noisy (GPS) height data of the 
 
 The first incarnation of the simulation focused on a single mass-damper-spring system, but later on this was expanded to the classical half-car model. Expansion to the full 3D car, with lateral dynamics was left outside the scope of the simulation since information such as turning speed and position on the track were missing.
 
-|![raw gps data with outliers](/images/spa/raw.png =350px)|![cleaned up gps data](/images/spa/smooth.png =350px)|
+|![raw gps data with outliers](/images/spa/raw.png)|![cleaned up gps data](/images/spa/smooth.png)|
 |---|---|
 |Fig 2. Plot of the raw data of the area around the Spa track. | Fig 3. The smoothed data of the same area used in the above simulation. |
 
