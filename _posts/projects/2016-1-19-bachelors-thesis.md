@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bachelor's Thesis: Blood Droplet Launcher
+title: Bachelor's Thesis&#58 Blood Droplet Launcher
 blog_group: project
 ---
 
