@@ -1,3 +1,13 @@
+---
+layout: page
+title: Phil's homepage
+permalink: /
+---
+
+# Welcome to my site.
+
+This isn't going as smoothly as all those tutorials make it look...
+
 <!--
 
 ---
@@ -20,12 +30,3 @@ layout: default
 </div>
 
 -->
-
----
-layout: page
-title: Phil's homepage
----
-
-# Welcome to my site.
-
-This isn't going as smoothly as all those tutorials make it look...
