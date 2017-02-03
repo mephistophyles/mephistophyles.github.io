@@ -11,7 +11,7 @@ As part of a course on simulation, we were given noisy (GPS) height data of the 
 |---|
 |Fig 1. The GUI of the 2D, note the configurable parameters and the input file contains timestamped position, speed and height data of the car on the track.|
 
-The first incarnation of the simulation focused on a single mass-damper-spring system, but later on this was expanded to the classical half-car model. Expansion to the full 3D car, with lateral dynamics was left outside the scope of the simulation since information such as turning speed and position on the track were missing.
+The first incarnation of the simulation focused on a single mass-damper-spring system, but later on this was expanded to the classical half-car model. Expansion to the full 3D car, with lateral dynamics was left outside the scope of the simulation since information such as turning speed and position on the track were missing and generally not released by F1 teams.
 
 |![raw gps data with outliers]({{site.url}}/images/spa/raw.png)|![cleaned up gps data]({{site.url}}/images/spa/smooth.png)|
 |---|---|
