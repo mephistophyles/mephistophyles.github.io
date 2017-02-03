@@ -5,6 +5,7 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     {% if post.blog_group != 'project' %}
+    {% else %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -15,8 +16,6 @@ layout: default
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
-    {% else %}
-    <h1>crap!</h1>
     {% endif %}
   {% endfor %}
 </div>
