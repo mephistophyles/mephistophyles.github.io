@@ -7,7 +7,7 @@ blog_group: project
 
 As part of a course on simulation, we were given noisy (GPS) height data of the area around (and including the) track at Spa Francorchamps. This data was then cleaned and used to develop a heightmap (Fig 3) of the area, as well as later on to simulate the dynamics of a car's suspension system as it travels along the track based on split time data.
 
-|![gui of the single mass spring damper](/images/spa/gui.png =800px)|
+|![gui of the single mass spring damper](/images/spa/gui.png)|
 |---|
 |Fig 1. The GUI of the 2D, note the configurable parameters and the input file contains timestamped position, speed and height data of the car on the track.|
 
