@@ -10,6 +10,6 @@ The final project for a course on Geospatial Intelligence called for the placeme
 |---|
 |Fig 1. Map of Liberia. *Source: http://en.wikipedia/wiki/Liberia*|
 
-Read the final report [here]({{ site.url }}/assets/report.pdf). 
+Read the final report [here]({{ site.url }}/assets/ebola_report.pdf). 
 
 Read more about the course [here](http://coursera.org/course/geoint).
