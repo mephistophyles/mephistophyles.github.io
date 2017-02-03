@@ -22,9 +22,10 @@ layout: default
 -->
 
 ---
-layout: default
+layout: page
+title: Phil's homepage
 ---
 
-<h1> Welcome to my site.</h1>
+# Welcome to my site.
 
-<p> This isn't going as smoothly as all those tutorials make it look...</p>
+This isn't going as smoothly as all those tutorials make it look...
