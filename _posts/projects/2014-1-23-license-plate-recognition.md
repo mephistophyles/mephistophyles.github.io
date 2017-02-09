@@ -7,7 +7,7 @@ For a class on image processing a friend of mine (Jorick Spitzen) and I worked o
 
 We would be given video (see screenshot below) of various cars in various lighting settings, orientations and the like and we were tasked with reading them and finding them in the video and printing their plate details.
 
-|[An example of the kind of data we had to work from.]({{site.url}}/images/license_plate/frame2.jpg)|
+|![An example of the kind of data we had to work from.]({{site.url}}/images/license_plate/frame2.jpg)|
 |---|
 |Fig 1. An example of the kind of data we had to work from.|
 
@@ -22,7 +22,7 @@ This license plate image we segmented out and passed on as a black and white ima
 
 In order to avoid certain false positives we tested the license plates against the RDW (Database of all registered license plates in the Netherlands) API to see if it is indeed a legal plate. We also used a regular expression to reinsert the dashes into the final answer.
 
-|[A screenshot of our program running]({{site.url}}/images/license_plate/screenshot2.jpg)|
+|![A screenshot of our program running]({{site.url}}/images/license_plate/screenshot2.jpg)|
 |---|
 |Fig 2. A screenshot of our program running.|
-Attached is also the ![poster]({{ site.url }}/assets/finalposter_group5.pdf) we presented at the end of the project, including some more details of the implementation and suggested improvements. Final MATLAB code can be found on Jorick Spitzen's Github repository ![here](https://github.com/jspitzen/yolo-robot) (and yes, we did call the project Yolo-Robot).
+Attached is also the [poster]({{ site.url }}/assets/finalposter_group5.pdf) we presented at the end of the project, including some more details of the implementation and suggested improvements. Final MATLAB code can be found on Jorick Spitzen's Github repository [here](https://github.com/jspitzen/yolo-robot) (and yes, we did call the project Yolo-Robot).
