@@ -22,7 +22,7 @@ This license plate image we segmented out and passed on as a black and white ima
 
 In order to avoid certain false positives we tested the license plates against the RDW (Database of all registered license plates in the Netherlands) API to see if it is indeed a legal plate. We also used a regular expression to reinsert the dashes into the final answer.
 
-|![A screenshot of our program running]({{site.url}}/images/license_plate/screenshot2.jpg)|
-|---|
-|Fig 2. A screenshot of our program running.|
+|![A screenshot of our program running]({{site.url}}/images/license_plate/screenshot2.jpg)|-|
+|---|-|
+|Fig 2. A screenshot of our program running.|-|
 Attached is also the [poster]({{ site.url }}/assets/finalposter_group5.pdf) we presented at the end of the project, including some more details of the implementation and suggested improvements. Final MATLAB code can be found on Jorick Spitzen's Github repository [here](https://github.com/jspitzen/yolo-robot) (and yes, we did call the project Yolo-Robot).
