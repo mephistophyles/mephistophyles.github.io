@@ -4,6 +4,15 @@ title: Welcome
 permalink: /
 ---
 
-Welcome to my site. Currently running a semi-custom dual-blog set up, based on Jekyll and hosted by Github pages.
+Welcome to my site. Currently running a semi-custom dual-blog set up, based on Jekyll and hosted by Github pages. I invite you to explore some of my past achievements (under the Projects tab) and read some of my blog entries (under Blog).
 
-Current project: getting this site up and running, adding (working) links to research papers I've written, and maybe change the theme to make it pwetty :smile: .
+Currently working on: 
+
+* getting this site up and running:
+  * Migrating all content from the previous site
+  * Put a nice theme or color scheme on it (it's a bit bland now)
+  * Migrating my code for projects to Github or Jupyter notebooks for better accessibility
+* adding (working) links to the research papers I've written
+* Upload current project to blog entries
+* Flesh out the current placeholders blog posts
+* Finding a new job
