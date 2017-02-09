@@ -14,6 +14,10 @@ The Delft Barons quickly grew a nucleus of passionate players, which pushed us t
 
 Coming off this loss, we redoubled our efforts. As try-outs had started for the 2012 national team and the first U19 national team, we sent more players than any other team to the try-outs. Eventually landing five players on each. Together with hiring a former NCAA player as a coach, 2012 was our year. We made it to the finals again except this time we triumphed over the team from our nation's capital. 
 
+|![A great shot of me shooting the ball against England in the Semifinals of the European Championships 2012]({{site.url}}/images/phil_ec2012_semis.jpg)|
+|---|
+|A shot of me shooting against England in the semifinals of the EC2012.|
+
 As a national team player, I was privileged enough to play in a World Championship in 2010 and a European Championship in 2012. I made the squad initially as a defensive midfielder, emphasizing my athleticism and coachability. I worked my way up to being the starting defensive midfielder, and our team managed to make it all the way to the quarter finals where we fell to Japan in a close game. We eventually placed 8th overall.  Two years later, I made the team as an offensive midfielder, having spent a lot of effort improving my dodging, shooting and off-hand. 
 
 Throughout this time I spent many summer weekends at tournaments, making friends and playing a more loose and carefree style of lacrosse. I played on the Global Players team with NCAA players, as well as being a starting midfielder for the Crazy Cows. I also played with European all stars at invitationals. Most notably a D-day memorial tournament in Nornmandy, France where we played against Hobart. Or in 2014 with a group of all-stars from the UK against the national teams of Norway, Italy and the Univeristy of Notre Dame. 
