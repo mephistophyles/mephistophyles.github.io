@@ -7,7 +7,7 @@ permalink: /about/
 My name is Phil. I'm an engineer and developer. I've spent the last year at the German Aerospace Center (DLR) in Oberpfaffenhofen, working under Martin Schuster to develop tools for research in multi-robot SLAM techniques. Since my time at DLR ends on the 31st of March, I'm currently in the market for new opportunities and challenges. My strengths and interests are in (but not limited to) the following: 
 
 * Simulations and visualizations to create actionable intelligence.
-* Robotics
+* Robotics and control
 * Open Science and communication between the scientific community and the public at large
 * Machine Learning
 * Teaching
