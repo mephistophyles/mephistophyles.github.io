@@ -72,7 +72,6 @@ tags:
     * The Vikings apart from raiding England.
 * Book about bad science performed by the respected scientific establishment (none of these quantum crystal shit). Stuff that went wrong while people were trying to be scientific. Also just bad experiments and crazy hypotheses that got tested and thrown out. 
     * Things like giving psychic patients electro shock therapy willynilly, giving soldiers LSD, the Stanford Prison Experiment.
-* How the Tulip came to Holland
 * Make a literary map of something. Favorite books or a region 
 * A central European research agency to coordinate and distribute budget. Basic and applied research like NASA and DARPA. 
     * Does it exist? Otherwise create it
@@ -91,3 +90,4 @@ tags:
 * Book that shows each civilisations knowledge of the world around them through their maps. Compare the various stages of advancement and the styles of the maps. See how they influence over another as the civilizations meet. 
 * To what extent are optimization programs and random/genetic algorithms used to optimize chip design? Is there a theoretical maximum in density that we already have reached and it is now more a question of power/best dissipation?
     * How about the creation of non linear and new designed logic gates/transistors?
+* Consider the half-way there portion of our desire to get human gene editing to work for designer babies. Would we discard the ones we don't think are good enough? Would we create beings that suffer immensely? What is ethical? There's certain plenty of historical precedent about this.
