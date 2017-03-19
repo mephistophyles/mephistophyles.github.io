@@ -14,7 +14,7 @@ The Delft Barons quickly grew a nucleus of passionate players, which pushed us t
 
 Coming off this loss, we redoubled our efforts. As try-outs had started for the 2012 national team and the first U19 national team, we sent more players than any other team to the try-outs. Eventually landing five players on each. Together with hiring a former NCAA player as a coach, 2012 was our year. We made it to the finals again except this time we triumphed over the team from our nation's capital. 
 
-|![A great shot of me shooting the ball against Israel at the European Championships 2012]({{site.url}}/images/phil_ec2012_israel.jpg =300x450)|
+|<img alt="A great shot of me shooting the ball against Israel at the European Championships 2012" src="{{site.url}}/images/phil_ec2012_israel.jpg" width="300">|
 |---|
 |Me shooting against Israel in the semifinals of the EC2012.|
 
