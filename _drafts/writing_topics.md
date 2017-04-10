@@ -24,7 +24,7 @@ This list will currently hold ideas that I am currently working on, abandoned id
 * Bioprinter Troubles
 * Communication Breakdown
 * What I wouldn't give
-* 
+* Murder on the way to Mars
 
 
 #### Expanded synopses:

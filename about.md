@@ -4,14 +4,13 @@ title: About Me
 permalink: /about/
 ---
 
-My name is Phil. I'm an engineer and developer. I've spent the last year at the German Aerospace Center (DLR) in Oberpfaffenhofen, working under Martin Schuster to develop tools for research in multi-robot SLAM techniques. Since my time at DLR ends on the 31st of March, I'm currently in the market for new opportunities and challenges. My strengths and interests are in (but not limited to) the following: 
+My name is Phil. I'm a robotics and software engineer. I've spent the last year at the German Aerospace Center (DLR) in Oberpfaffenhofen, working under Martin Schuster to develop tools for research in multi-robot SLAM techniques. Since my time at DLR ends on the 31st of March, I'm currently in the market for new opportunities and challenges. My strengths and interests are in (but not limited to) the following: 
 
 * Simulations and visualizations to create actionable intelligence.
 * Robotics and control
-* Open Science and communication between the scientific community and the public at large
+* Open Science and communication
 * Machine Learning
 * Teaching
-* Synthetic, Systems, and Computational Biology
 
 ### Background Information
 
@@ -20,9 +19,7 @@ I've had the priviledge of growing up in numerous countries around the world (th
 I'm passionate about learning and passing that on to others. Hopefully the items under the projects tab here give you a glimpse of my diverse background and interests. My hobbies include:
 
 * Electronics (Arduino, Raspberry pi projects) and domotics
-* Chess
 * Lacrosse
-* Writing (maybe someday this can become more than a hobby)
 * Hiking and traveling
 
 ### Contact Me
