@@ -9,10 +9,9 @@ Welcome to my site. Currently running a semi-custom dual-blog set up, based on J
 Currently working on: 
 
 * getting this site up and running:
-  * Migrating all content from the previous site
   * Put a nice theme or color scheme on it (it's a bit bland now)
-  * Migrating my code for projects to Github or Jupyter notebooks for better accessibility
+  * Committing my code for projects to Github (or Jupyter notebooks?) for better accessibility
 * adding (working) links to the research papers I've written
 * Upload current project to blog entries
-* Flesh out the current placeholders blog posts
-* Finding a new job
+* Write up finished projects and add as project entries
+* Finding a job in Boston
