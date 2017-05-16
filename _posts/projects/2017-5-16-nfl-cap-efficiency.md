@@ -4,8 +4,6 @@ title: Each NFL team's cap spending efficiency based on position ranking
 blog_group: project
 ---
 
-## Introduction
-
 The goal of this project was to understand how well each team's allocated resources are being spent. Each NFL team has a fixed cap number to spend on the salaries of their players. While in reality the exact cap rules are a bit more complicted (with yearly roll-over, cuts, dead money etc) for the purposes of this analysis we assume that each team has the same yearly budget to spend. In the 2016 season this was $155.27 million, for the 2017 season this has been raised to $167 million.  
 
 ## Evaluations
