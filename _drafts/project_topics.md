@@ -8,17 +8,23 @@ tags:
 
 ## List of projects to consider:
 
-* blog pos/business ideat: brick and mortar 3d printing franchise, which hosts several larger and medium sized 3d printers as well as access to large databases of products, so they can create things on demand locally, ship them out, but also design things in shop for you (small customizations). Add pick up options like the DHL and Amazon pick up stations, if you don't pick in 2 weeks, it simply gets melted down again.
+* 3 Levels of machine learning. A simple perceptron or 2-3 layer simple ANN, a medium complicated example ANN and a large scale CNN or RNN example to support a relevant blog post.
+* Do the math on a solar powered water electrolysis station. How Much area of solar panels do you need get a decent amount of h2 and o2. 
+    * similarly, calculate the amount of CO2 going into the air due to industry and deforrestation and other sources, and calculate how much biomass (and what form) could form a balance to counter it (and over what time) https://www.technologyreview.com/s/604260/can-we-fight-climate-change-with-trees-and-grass
 * Cape Cod Solar
     * Consider the costs and benefits to the various shareholders if Boston/Cape Cod area were to roll out a plan to give its various residents the same offer for subsidized solar pannel buy-back over the first 10 years. Could this offer scale to other places like California, Phoenix, Miami or even Minneapolis?
     * How would it increase Massachussett's rank in this http://www.infrastructurereportcard.org/
+* Create a markov model of maze navigation, so you can see what different techniques including random walks give for outcome in terms of time.
+* Create a simple ML algorithm that uses a simple ML technique (like gradient descent) to optimize/design a mechanical part of something. Choose a part that can be easily measured/evaluated for efficiency.  Show how the ML algorithm (maybe add some sort of genetic or evolutionary algorithm aspect to it) finds novel, but efficient solutions (inspiration: 
+    * https://www.nasa.gov/centers/ames/research/exploringtheuniverse/borg.html)
+* Look at a simple network based graph for epidemic spread. Then consider augmenting it based on intermittent connections and random, short-lived connections such as passing in the street
 * Someone pierces the Aswan dam in Egypt. What happens then?
     * What about other famous dams, Hoover, Three Gorges, etc
     * Are they maybe more vulnerable (like in the US due to bad maintenance) to increasingly extreme weather than we think
 * Charity that focuses on food distribution. 
     * There are a number of ways this can be accomplished, either through distribution of goods that are passed their sell-by date but not rotten (a soup kitchen won't turn it away, assuming we can get past the legal issue of who is responsible if the food isn't quite good).
     * We could also do something similar with restaurants, which probably also throw away a fair amount of good food, that though maybe not presentable could provide a filling meal to those that are needy.
-* Want to really mess with the us? Sever the Internet cables going to various major cities, especially new York and DC. Also silicon Valley and near many large banking servers (a la fight Club).
+* Want to really mess with the US? Sever the Internet cables going to various major cities, especially new York and DC. Also silicon Valley and near many large banking servers (a la fight Club).
     * What about exacerbating a drought by hurting water access during the crucial growing stage of most US cash crops?
 * Make a visualization based on potential Antarctic habitable area due to climate change (see map here: https://www.washingtonpost.com/news/wonk/wp/2016/04/29/six-maps-that-will-make-you-rethink-the-world/?utm_term=.78409a7173c8), estimate areas worth building on vs growing on, population support and other factors of economic interest. 
     * Current estimations is not for another 200 years
@@ -41,18 +47,18 @@ tags:
 * Product idea; similar to the 3d printed tooth brush replacement, but make it several possible sizes so that people can buy the correct sizes for their teeth. Similar to mouth guard. Modular, cheap and Mass produce able. 
     * With a media blitz and available everywhere, could grab a huge chunk of the market if it is indeed better than brushing your teeth in every possible category. Then after doing so. Sell to Unilever or Johnson's & Johnson's
 * Create a map/book/visualization for the great battles of history, start with the ones of the second Punic war
-* Do the math on a solar powered water electrolysis station. How Much area of solar panels do you need get a decent amount of h2 and o2. 
+    * Check if there isn't a good one already
+* blog pos/business ideat: brick and mortar 3d printing franchise, which hosts several larger and medium sized 3d printers as well as access to large databases of products, so they can create things on demand locally, ship them out, but also design things in shop for you (small customizations). Add pick up options like the DHL and Amazon pick up stations, if you don't pick in 2 weeks, it simply gets melted down again.
 * Website/app idea;  compare how related on a genomic level we are. Do so for animals, plants and humans... maybe make a game out of it...
 * Evaluate the current visualizations and videos of Pavlopetri- Greece, if none of them are any good, consider making a proper 3d visualization for others to look at so the information about the sunken city is beter presentable.
 * Calculate the current land value (not including economic output) of the various areas of the US that were owned by the various tribes before Europeans settled there. Figure out how much each tribe member would theoretically be worth. Also add a comparison of how the lands would have developed had Europeans not 'taken over'
 * Weave battery material through a coat. Have inside coat pockets as inductive chargers
 * Could you make a drone even more maneuverable by adding an extra degree of freedom to its rotors. Allowing the to go from vertical to a few degrees away from normal to the drone. How much more complex would the control scheme be?
 * Similar to the ML/DL project with the dimensions, consider perhaps showing that an unsupervised approach can yield various physical formulae. Throw in every measurable variable (temp, speed of ball, constants) and take some 'raw' data from famous experiments in history and see if you can find a result?
-* Create a simple ML algorithm that uses a simple ML technique (like gradient descent) to optimize/design a mechanical part of something. Choose a part that can be easily measured/evaluated for efficiency.  Show how the ML algorithm (maybe add some sort of genetic or evolutionary algorithm aspect to it) finds novel, but efficient solutions (inspiration: 
-    * https://www.nasa.gov/centers/ames/research/exploringtheuniverse/borg.html)
 * Write about the overlap and dealings between the various civilizations that history teaches people in discrete gruops. Romans, Egyptian, Greek, Chinese, meso American, Japanese, Celts, Vikings, etc
 * Create a web app that can be used to store various lacrosse stats for a team. FO, win, shot, shot on goal, etc
     * Collaborate with Jorick?
+    * What does Pointbench do? Extend it?
 * Software that analyzes football games, play by play. First it abstracts the video to a 3d skeleton of all players and identifies then by number and team. Then it identifies the play (run, pass, play action, etc) and identifies weaknesses and strengths of the play and it's result. Then based on all plays by a team it finds patterns and identifies them (qb only looks left, stares down wr, run plays never go for more than a yard on certain formations, 3rd down habits, weak corners, etc)
     * How much of this is already being done by next-gen stats?
 * In a similar project to the northern straight, research how the various climate projections could affect the trade winds and other major wind patterns of the planet. 
@@ -63,7 +69,7 @@ tags:
     * https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_vortex_street
 * Perhaps a small project to show off on your portfolio and problemsolving abilities, create a small daemon in windows that shows the status of your android phone that's plugged into your computer charging (like email updates and battery %)
     * Similar to airdroid I guess but just a small tray icon running in the background.
-* Create a startup that makes a small flying  drone that can be sent into a small enclosed space like a cave or a hut, and show on a tablet what's inside. 
+* Create a startup that makes a small flying  drone that can be sent into a small enclosed space like a cave or a hut, and show on a tablet what's inside. Maybe also one that's a flying, person-seaking flashbang or teargas grenade
 * Research Net Neutrality in China, especially as spearheaded by Baidu, Alibab and such. Could there be an increasing trend of high tech businesses and innovation coming from China and could they be the new center around which tech infrastructure could revolve?
 * A DL technique that uses speech input and nlp techniques to learn the speech and voice patterns of someone. Maybe employ the technique of Gan or other ways to make it work off minimal training data
 * Map of Syrian towns, showing the relative population decreases. Contrast it to similar decreases of American/European towns after major events like the plague or WWI

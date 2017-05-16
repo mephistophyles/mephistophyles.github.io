@@ -9,6 +9,16 @@ tags:
 
 ## List of blog topics to consider:
 
+* The overshooting of the reasons for markets and capitalism. Initially a method to not just acquire wealth, but also to invest it in a way that you could do good with it by creating growth somewhere (ie making a win-win) and helping out someone who could benefit from (temporarily) using your resources. Now with the market being increasingly as a means to just increase wealth in ways that no longer serve that second purpose (by means of microtrading and high frequency trading, derivatives), maybe we should take a step back and re-examine how we do things? 
+* Discuss using the correct level of 'force' in machine learning, don't use a 19 layer RNN where a perceptron will do. Build a few examples for projects that illustrate 3 levels of machine learning.
+ * Link to help explain how neural networks can compute any function http://neuralnetworksanddeeplearning.com/chap4.html
+ * name suggestion: "flyswatter, shotgun and howitzer" or "Big Oh of Goldilocks"
+ * for completeness sake, theme all examples on cancer detection, first using a number of features and classification yes or no, second more complicated features and type cancer, and third could be passing radiology scans as input?
+ * http://scikit-learn.org/stable/datasets/#breast-cancer-wisconsin-diagnostic-database would be a good beginner dataset which only needs binary classification
+ * http://news.stanford.edu/2017/01/25/artificial-intelligence-used-identify-skin-cancer/ could be a good example of an advanced classification
+ * https://drive.google.com/file/d/0B1T58bZ5vYa-QlR0QlJTa2dPWVk/view might be a nice medium level example
+* linked to above, certainty in machine learning is not the same as correctness: https://codewords.recurse.com/issues/five/why-do-neural-networks-think-a-panda-is-a-vulture
+* Access to broadband internet is crucial to the development of (especially lower income) homes. However, this has been getting harder, especially considering policies Trump enacted. Also, how can so much of the internet be American (ICANN, Silicon Valley, etc) yet Americans have such poor and expensive access to something the rest of the world treats as a utility if not a fundamental human right?
 * Novels reading and how to find them, book review page, updated sometimes.
 * excitement and caution at the potential of 3D printing
 * Copyright law, outdated and stiffling innovation (similar to downloading, technology always advances faster than law, but best not to be on the losing side). Anti-piracy features should never hurt legitimate users (large, padded file sizes, always-on connections needed etc), otherwise they will just spur people who want to turn them off in their (legitimate?) version and thus the crack is made. If a product is good enough on it's own merits, maybe the online marketplace holds a reality that should just be accepted that a certain percentage will be pirated, and since this is people who don't download from your source or play on your servers, but potential later customers (like the demo used to be) and otherwise would be non-customers, they provide extra exposure and thus should be used to benefit the revenue aspect of a product to complement it's current advantages, not waste time and resources combatting them, this is folly.
@@ -37,6 +47,8 @@ tags:
 * lack of grounded argument for anti-gay stance, similar to other discrimination views. Sharing doesn't diminish one's own of something (in which case celebrity marriages should be protested much more).
 * Make several lists, where the two extremes of any given spectrum are used as the metric (richest country per capita, best test scores by country etc), so ignore the top and bottom 5% or so and see how the bulk of a country really ranks without all their outliers.
 * create a reputation tracking website, use companies and brands that are verified on twitter for example as your metric. Events are either positive or negative and thus increase their reputation negative or positively. Events fade in time, but trends can hurt reputation long term, base these events on social media reports and their being in the news. Website should be accessible to all and the current reputation is visible. Then monetize it by selling companies access to their reputations over the past period and the subscription also allows them to 'simulate' an even they are planning's effect on their reputation based on the previous events that are similar in reputation's database. FINAL Project for CS50?
+    * Maybe use it to track Politicians consistency with their promises, their financial backers, how consistently they vote on certain issues
+    * Consider tracking poor behavior online (twitter hate speach, dick pics, inappropriate DMs etc)
 * create a model for the earth's climate based on all non-human factors, plus the known (expected) natural effects adding to species that are now a bigger factor because humans haven't made them extinct or culled their habitat. Show that non-anthropogenic climate change isn't likely.
 * We need to redesign cars if they become autonomous. That would be safer for us in terms of number of accidents, but it could also increase the survivability of car accidents if we don't have to face the front and be near the glass. Has this been done for trains and planes or are they just mass transit mechanisms?
 * Rethinking education is needed. With online learning and technology and with AR/VR coming we should be able to do better than lecture halls and the old way of teaching. Just because teachers learned that way. Look at MIT's supply chain master and Georgia Tech's CompSci master.
@@ -48,15 +60,15 @@ tags:
     * The Bologna Agreement already states that universities need to recognize and honor each other's courses based on topic and ECTS. But what if we also create a central repository of courses, where each degree contains certain courses (maybe not necessarily each one being the same, but there should be enough overlap that at least partially this is feasible). These courses can then be given a certain code and practice material, lecture notes and lectures, student help sessions on fora or other social media platforms can develop (saving the professors time and allowing students to help one another). Allowing teachers to contribute to a pool of resources as it were, where both educators and students alike can draw from in case a method being offered to them is currently not working, or they need a little more help. 
     * This could even be done at various scales, not just on the course scale, but also degree scale and even topic scale. While the laws of thermodynamics don't change, you could say a course at the TUM contains certain topics, and a similar course at another university contains a subset of these topics, but switching out 2 or 3. This way if a student has trouble with a certain topic, or a certain topic is unclear, they can find resources at that level too.
 * Write an opinion editorial about how America is now a poor example of a working democracy. It's current election (scandals) are scaring fledgeling democracies, and maybe the entire media circus and corruption are things not to do, perhaps citing the way Europeans do things is a better example to hold up to the world.
-* Explore aide to the developing world, its effectiveness and ethics. Stay as objective as possible and add opinion based on the facts covered (make it clear what's what) also, point out the various cultural biases and how some forms of aide aren't really aide (especially if its condition, like RC church does)
+* Explore aide to the developing world, its effectiveness and ethics. Stay as objective as possible and add opinion based on the facts covered (make it clear what's what) also, point out the various cultural biases and how some forms of aide aren't really aide (especially if its conditional, like RC church does and now the US)
 * engineers for humanity
     * hold monthly workshops with 20 students to brainstorm solutions to a given problem (themed)
     * suggest relevant companies sponsor the evening (pay for free food for the students), keep their name connected to that potential project
     * students can choose to take up a potential solution (individually or as a group) and work it through (maybe with connecting to the company)
 * research the realistic effects of the realistic predictions of climate change
-    * People who don't believe in it can go suck on an egg, the rest of us should be able
+    * People who don't believe in it can go suck on an egg, the rest of us should be able to prepare and maybe even profit
     * to prepare using the predictions. Migrating areas for food production, rising costs,
-    * alternate rainfall and drought patterns.
+    * alternate rainfall, wind, flooding and drought patterns.
 * Comparison of banking practices of various countries. Reasons why they (still) do things a certain way and the reasons it's a bad idea. 
 * Are we combating the threat of self-radicalized terrorist threats properly, aren't we polarizing any muslims here into an 'us vs them' society where we could be pushing a large amounts of potential allies away and even worse, large amounts of neutrals into the other corner. 
     * On the other hand, killing them with kindness could be perceived as a sign of weakness by those already converted and make them redouble their efforts, or help them recruit more by giving them ammunition for their propaganda.
@@ -75,11 +87,12 @@ tags:
 * Make a literary map of something. Favorite books or a region 
 * A central European research agency to coordinate and distribute budget. Basic and applied research like NASA and DARPA. 
     * Does it exist? Otherwise create it
-* Where did China visit in their old age of exploration? The Aztecs? North America?
+* Where did China visit in their old age of exploration? What about the Aztecs? North America?
 * Building an ANN from distinct electrical components, where the different components used a variation of UDP to communicate down the link. The signal loss could be used to 'simulate' the unreliable neural link. 
     * Consider using new techniques for this like communication between components with light or other ways currently more advanced chips are being designed to overcome the bandwidth issue.
 * Could the setting off of a few volcanoes like in 1815 in Indonesia, that causes a (temporary) winter lowering temperatures around the world. Buying time while we fix the carbon dioxide in the atmosphere. 
     * Would this temporary cooling help at all or would the increased carbon dioxide emission and absorbtion into the ocean etc just make this a bad idea.
+    * could this be 2 steps back for one step forward considering the amount of CO2 a volcano emits?
 * Make a cool map of Boston, Montreal or San Diego for Liz:
     * Literary one
     * Rotated one
@@ -90,4 +103,4 @@ tags:
 * Book that shows each civilisations knowledge of the world around them through their maps. Compare the various stages of advancement and the styles of the maps. See how they influence over another as the civilizations meet. 
 * To what extent are optimization programs and random/genetic algorithms used to optimize chip design? Is there a theoretical maximum in density that we already have reached and it is now more a question of power/best dissipation?
     * How about the creation of non linear and new designed logic gates/transistors?
-* Consider the half-way there portion of our desire to get human gene editing to work for designer babies. Would we discard the ones we don't think are good enough? Would we create beings that suffer immensely? What is ethical? There's certain plenty of historical precedent about this.
+* Consider the half-way there portion of our desire to get human gene editing to work for designer babies. Would we discard the ones we don't think are good enough? Would we create beings that suffer immensely? What is ethical (what about the fact that some people will do it anyways, and this could create a sort of arms race or an even wider divide between haves and have-nots)? There's certain plenty of historical precedent about this.
