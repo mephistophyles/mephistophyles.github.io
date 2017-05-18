@@ -14,7 +14,7 @@ My name is Phil. I'm a robotics and software engineer. I've spent the last year 
 
 ### Background Information
 
-I've had the priviledge of growing up in numerous countries around the world (the United States, South Korea, Belgium, and Cuba just to name a few), this has served as a catalyst for my side interests in international relations, history and learning. Besides my work at DLR and research at the Delft Biorobotics Lab at the TU Delft, I've also spent time as a developer for a big data consultancy, a middle/high school teacher and a lacrosse coach, and national lacrosse team player. 
+I've had the privilege of growing up in numerous countries around the world (the United States, South Korea, Belgium, and Cuba just to name a few), this has served as a catalyst for my side interests in international relations, history and learning. Besides my work at DLR and research at the Delft Biorobotics Lab at the TU Delft, I've also spent time as a developer for a big data consultancy, a middle/high school teacher and a lacrosse coach, and national lacrosse team player. 
 
 I'm passionate about learning and passing that on to others. Hopefully the items under the projects tab here give you a glimpse of my diverse background and interests. My hobbies include:
 
