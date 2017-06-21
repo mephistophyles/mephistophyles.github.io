@@ -12,7 +12,7 @@ For this initial assessment, we will look at how well each team's offense and de
 
 #### Overall Cap Breakdown
 
-In this graph, we can see the overall breakdown for each team's cap spending between offense and defense. The graph is group by division and conference. Of interest is noting that the Cowboys spent $24.7 on Tony Romo at quarterback, but their starter throughout the season, Dak Prescott, only counted for $635848 against the team's cap. This is obviously an extreme anomaly, but paying two quarterbacks a large percentage of the salary cap is not uncommon, highlighting the position's importance.
+In this graph, we can see the overall breakdown for each team's cap spending between offense and defense. The graph is group by division and conference. Of interest is noting that the Cowboys spent $24.7m on Tony Romo at quarterback, but their starter throughout the season, Dak Prescott, only counted for $635848 against the team's cap. This is obviously an extreme anomaly, but paying two quarterbacks a large percentage of the salary cap is not uncommon, highlighting the position's importance.
 
 |![breakdown of cap spending by offense and defense per team]({{site.url}}/images/nfl/offense_defense_breakdown2016.png)|
 |---|
