@@ -72,7 +72,7 @@ kramdown:
 sass:
   style: :expanded # You might prefer to minify using :compressed
   
-theme: Cayman
+theme: minima
 
 # Use the following plug-ins
 gems:
