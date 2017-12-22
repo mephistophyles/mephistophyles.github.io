@@ -72,7 +72,7 @@ kramdown:
 sass:
   style: :expanded # You might prefer to minify using :compressed
   
-remote_theme: rohanchandra/type-theme
+theme: cayman
 
 # Use the following plug-ins
 gems:
