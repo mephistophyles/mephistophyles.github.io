@@ -1,0 +1,62 @@
+---
+layout: post
+title: Tips
+blog_group: blog
+---
+
+Here is a collection of some useful tips.
+
+### Gmail tags
+
+When I subscribe to a newsletter or have to hand out my email to get access to a website, I usually add a tag to my email. Gmail allows you to specific "youremail+tags@gmail.com", where you can fill anything in for a tag. I usually just use the baseurl of the site I'm on, so "philip.heijkoop+kittens@gmail.com" would be my entry to get on the kittens.com newsletter (which sadly doesn't exist). 
+
+This way I can see who is holding true to their privacy policy and who sold their newsletter subscriber list to someone else. This does allow me to add filters to my spam detector, blocking any violators.
+
+Using tags in this way can also help you sort your inbox better. You can add filters to aggregate all incoming email with certain tags to a newsletter folder instead of your inbox. Or in correspondence, you can request someone use a tag like +wedding to make sure you can find all your wedding info in one place.
+
+### My .bashrc
+
+I have two little additions to my .bashrc that I think are worth sharing. I picked them both up from my supervisor at DLR; Martin Schuster (maybe one of the smartest computer scientists I've ever had the priviledge of learning from).
+
+#### Pretty Colors
+
+![](https://i.stack.imgur.com/vPSgk.png)
+
+I have added pretty colors to my terminator prompt. Nothing too complicated, but the following lines in my .bashrc show me: 
+
+ - my user and machine in green
+ - my folder path in blue
+ - my github branch in red
+
+```bash
+parse_git_branch() {
+    git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
+}
+export PS1="\[\033[32m\]\u@\h \[\033[34m\]\w\[\033[31m\]\$(parse_git_branch)\[\033[39m\]$ "
+```
+
+The `parse_git_branch` function does exactly what the name suggests. The color codes in this case are `32m`, `34m`, `31m` and `39m` respectively. Don't forget the `39m` at the end, or your text will be red too, as opposed to your default color. You can change the colors to suit your needs by looking up the code colors [here](https://misc.flogisoft.com/bash/tip_colors_and_formatting).
+
+#### History Search
+
+Another addition to my .bashrc that I find very useful is binding the up and down arrows to search through my command history with autofill. So if I type "sudo apt-get" and press the up arrow, it will cycle through the different commands in my bash history that started with "sudo apt-get". The salient lines here are:
+
+```bash
+shopt -s histappend
+HISTSIZE=5000
+HISTFILESIZE=20000
+bind '"\e[A": history-search-backward'
+bind '"\e[B": history-search-forward'
+```
+
+The first line tells my bash session to append any current commands to the history file, as opposed to starting a new file every new session. The next 2 lines are strictly not additions, but I have increased the size of my histfile's memory and entry numbers. Then I bind the up and down keys to search through the history.
+
+### The 30 Minute Rule
+
+A small rule of thumb I learned as a junior dev which helped me learn when it's time to call for help. When you're the newest member on a team (especially if this is one of your first jobs) I feel hesitant at times to call for help too often. Part of it is not wanting to seem like I need constant hand holding and part of it is a fear of wasting a senior's (more valuable) time. The other extreme is smashing your head against the problem without getting anywhere.
+
+I try to follow the following general rule (30 minutes is an approximate goal which I am fine increasing if I have stuff I can try or the senior is clearly busy); If a problem creeps up that I can't quickly solve I will spend 30 minutes trying to learn more about the problem, go through the stacktrace (if there is one), google the problem, and try any fixes that I think might help. If I can't solve it in 30 minutes, I call for help. 
+
+Thirty minutes is a nice period of time where you can try a few things and get a decent overview of the problem, so when you present it to the senior you can give him useful information: "I tried this, this and this, but none of that seemed to help", plus it gives the helpful impression that you tried to fix it yourself (this is no small thing). It also prevents you from wasting your own valuable time (even as a junior your time is not worthless), since a senior helping you get unstuck usually not only teaches you how to solve this particular problem but also allows you to continue being productive afterwards.
+
+**Vindication** I've found variations of this rule exist at [Akamai](https://blogs.akamai.com/2013/10/you-must-try-and-then-you-must-ask.html) where they have it set at 15 minutes and 
