@@ -10,7 +10,7 @@ There is no single right answer, especially with so many people coming from so m
 
 ### Newsletters
 
-There are a number of newsletters I subscribe to, they provide a fair bit of overlap which I like since it ensures that if any article is deemed important by a number of people there is a smaller chance I'll gloss over it. A helpful tip for dealing with spam/filtering newsletters can be found [here](/2018/1/1/tips).
+There are a number of newsletters I subscribe to, they provide a fair bit of overlap which I like since it ensures that if any article is deemed important by a number of people there is a smaller chance I'll gloss over it. A helpful tip for dealing with spam/filtering newsletters can be found [here](/2018/01/01/tips).
 
  - [Data Elixir](https://dataelixir.com/)
  - [Data Science Weekly](https://www.datascienceweekly.org/)
