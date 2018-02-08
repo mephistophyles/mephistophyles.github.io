@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-My name is Phil Heijkoop. I like to style myself as a full-stack machine learning engineer. I've spent a year and a half at the German Aerospace Center (DLR) in Oberpfaffenhofen, working under Martin Schuster to develop tools for research in multi-robot SLAM techniques. Since then I have returned to the Netherlands and picked up at Veneficus (my employer before I left for Germany), where I worked closely with the data science and software development teams to help create production ready analysis tools for our clients.
+My name is Phil Heijkoop. I like to style myself as a full-stack machine learning engineer. I've spent a year and a half at the German Aerospace Center (DLR) in Oberpfaffenhofen, working under Martin Schuster to develop tools for research in multi-robot SLAM techniques. Afterwards I returned to the Netherlands and picked up at Veneficus (my employer before I left for Germany), where I worked closely with the data science and software development teams to help create reproducible data-science tools for our clients. I now live in Boston and am looking for my next challenge.
 
 ### Background Information
 
