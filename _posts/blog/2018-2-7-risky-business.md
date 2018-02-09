@@ -2,7 +2,7 @@
 layout: post
 title: Risky Business
 blog_group: blog
---
+---
 
 Growing up, Risk was the go-to game in our family to play on cold winter days. We had the house rule that the attacker had to roll first, and the defending player could then choose how many dice he wanted to roll. Normally, the two roll at the same time. We also had the house rule that a defender could roll with up to three dice, just like the attacker.
 
