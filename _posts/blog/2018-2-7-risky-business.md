@@ -18,7 +18,7 @@ We can extend this reasoning and calculate the odds of wins and losses for every
 
 ### The 3 Crucial Defenders
 
-[!Result distributions of 10 armies attacking 3 defenders 10000 times]({{site.url}}/images/risk/10vs3sim10k.png)
+![Result distributions of 10 armies attacking 3 defenders 10000 times]({{site.url}}/images/risk/10vs3sim10k.png)
 
 Above is an image resulting from 9 armies attacking (ie the territory has 10) 3 defenders 10000 times. The simulation was run several times and the pattern remains; most likely outcome would be to lose all your attacking armies and the second most likely outcome is to not lose any!
 
@@ -28,7 +28,7 @@ Looking at the situation where an attacker has 3 dice and the defender only has 
 
 This rule of thumb to remember (3 defenders is beatable, because 2 is VERY beatable) seems to hold true, because when we simulate the same situation with 4 defenders instead of 3, the success chances looks very different.
 
-[!Result distributions of 10 armies attacking 4 defenders 10000 times]({{site.url}}/images/risk/10vs4sim10k.png)
+![Result distributions of 10 armies attacking 4 defenders 10000 times]({{site.url}}/images/risk/10vs4sim10k.png)
 
 Now it shows that the odds of success have decreased dramatically, especially those of winning without incurring a loss.
 
@@ -36,11 +36,11 @@ Now it shows that the odds of success have decreased dramatically, especially th
 
 What is interesting to note is that the distribution of results doesn't change a ton once the attacker has more armies. Below is the outcome of running the simulation with 100 attacking armies vs 90 defenders. 
 
-[!Result distributions of 100 armies attacking 90 defenders 10000 times]({{site.url}}/images/risk/100vs90sim10k.png)
+![Result distributions of 100 armies attacking 90 defenders 10000 times]({{site.url}}/images/risk/100vs90sim10k.png)
 
 And below is the same 100 armies attacking 30 defenders. 
 
-[!Result distributions of 100 armies attacking 30 defenders 10000 times]({{site.url}}/images/risk/100vs30sim10k.png)
+![Result distributions of 100 armies attacking 30 defenders 10000 times]({{site.url}}/images/risk/100vs30sim10k.png)
 
 Clearly a win is a win. Once you have a superior number of armies, then it doesn't matter a great deal whether your opponent has 30% or 90% of your force, victory seems almost assured.
 
@@ -54,9 +54,9 @@ The defensive strategy was boiled down to the following rule:
 
 I expect the conservatie strategy as such to result in a more favorable result for the defense. Yet nothing could be further from the truth:
 
-[!Result distributions of 100 armies attacking 30 defenders 10000 times with house rules]({{site.url}}/images/risk/100vs30sim10khouse.png)
+![Result distributions of 100 armies attacking 30 defenders 10000 times with house rules]({{site.url}}/images/risk/100vs30sim10khouse.png)
 
-[!Result distributions of 100 armies attacking 90 defenders 10000 times with house rules]({{site.url}}/images/risk/100vs90sim10khouse.png)
+![Result distributions of 100 armies attacking 90 defenders 10000 times with house rules]({{site.url}}/images/risk/100vs90sim10khouse.png)
 
 The above graphs show the results of 100 armies attacking 30 and 90 defenders respectively. They are nearly identical to the above results (only a mild shift of the peak to the left). So our house strategy is indeed better, but minimally.
 
